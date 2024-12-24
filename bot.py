@@ -6,7 +6,7 @@ import logging
 import os
 
 # Токен вашего бота
-TOKEN = '6958797035:AAHJzwuABeF-wl4ZdgDfb2OPjeW-m6py1XM'
+TOKEN = 'TOKEN'
 CHAT_ID = '@HackAndTrend'  # Ваш канал (или ID чата)
 
 # URL RSS-канала
